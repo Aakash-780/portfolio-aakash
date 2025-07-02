@@ -1,0 +1,64 @@
+# macOS system files
+.DS_Store
+.CFUserTextEncoding
+
+# Shell & terminal history
+.zsh_history
+.zsh_sessions/
+.zprofile
+.zshrc
+.zshrc.swp
+.bash_history
+.python_history
+.viminfo
+.lesshst
+
+# IDEs & editors
+.vscode/
+.arduinoIDE/
+.idlerc/
+.idea/
+
+# Config & settings
+.gitconfig
+.npmrc
+.oracle_jre_usage/
+.mongodb/
+.mongodb/
+.local/
+.config/
+.npm/
+.npm-global/
+
+# User folders
+Applications/
+Desktop/
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+
+# Specific files
+AAKASH\ SRIVASTAVA.docx
+
+# Folders related to projects
+Chef-website/
+mongodb-macos-aarch64-8.0.10/
+
+# Node.js (if applicable)
+node_modules/
+
+# Python virtual environments (if applicable)
+venv/
+env/
+
+# Miscellaneous
+*.log
+*.swp
+
+# Backup files
+*.bak
+*.tmp
