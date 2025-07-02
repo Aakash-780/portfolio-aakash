@@ -1,11 +1,12 @@
 # Personal Portfolio Website
 
 Welcome to my personal portfolio website, hosted on Firebase!  
-You can view it live here: [https://portfolio-7b70c.web.app](https://portfolio-7b70c.web.app).
 
 ## 🚀 About
 
 This website showcases my projects, skills, and professional experience. It is designed to provide visitors with an overview of my work and how to connect with me.
+
+You can view it live here: [https://portfolio-7b70c.web.app](https://portfolio-7b70c.web.app).
 
 ## 🌟 Features
 
