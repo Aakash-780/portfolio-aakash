@@ -1,3 +1,16 @@
+window.addEventListener("load", () => {
+  const loader = document.querySelector
+  ("#preloader");
+  const loaderWrapper = document.querySelector
+  (".loader-wrapper");
+  if (loader) {
+    loader.remove(); 
+    loaderWrapper.remove();
+  }
+});
+
+
+
 function toggleReadMore() {
     const dots = document.getElementById("dots");
     const moreText = document.getElementById("moreText");
